@@ -1,0 +1,23 @@
+{
+  "name": "readme_generator",
+  "version": "1.0.0",
+  "description": "This Project Allows A User To Generate A Professional Readme Via Prompts In The Terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RMosley912/README_Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RMosley912/README_Generator/issues"
+  },
+  "homepage": "https://github.com/RMosley912/README_Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
