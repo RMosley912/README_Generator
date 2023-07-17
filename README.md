@@ -4,6 +4,10 @@
 
 README Generator is a command-line application that generates a pro README file from input using the Inquirer package. This allows the creator to devote more time to working on the project.
 
+## Link To App Demo
+
+https://drive.google.com/file/d/1naPIKBq3FzHiO5gLKRGBGh07HKOrMNyH/view?usp=drive_link
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -82,9 +86,6 @@ Please note that this README was generated using this application.
 
 Enjoy using the README Generator!
 
-## Project status
-
-Development of README Generator is in progress. More features will be updated soon.
 
 ## Screenshot of Application
 
