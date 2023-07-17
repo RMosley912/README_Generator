@@ -81,7 +81,7 @@ function writeToFile (fileName, data) {
     return fs.writeFileSync(path.join(process.cwd(), fileName), data);
 }
 
-//Function to start app
+//Function to initialize app prompt user for questions and generate markdown
 function init() {
 
  
@@ -93,6 +93,6 @@ writeToFile('README.md', generateMarkdown({...answers}));
 })
 
 }
-
+// Function call to initialize app
 init();
 
