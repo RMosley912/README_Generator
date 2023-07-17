@@ -1,5 +1,96 @@
-# README_Generator
-This Project Allows A User To Generate A Professional Readme Via Prompts In The Terminal
+
+
+# README Generator
+
+README Generator is a command-line application that generates a pro README file from input using the Inquirer package. This allows the creator to devote more time to working on the project.
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+
+The project requires Node.js and npm to be installed on your local environment. 
+
+### Installation
+
+To get a local copy up and running follow these steps:
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/RMosley912/README_Generator.git
+```
+
+2. Install NPM packages
+
+```bash
+npm install inquirer
+```
+
+This command will install the `inquirer` package that is required for this application to work. 
+
+## Usage
+
+To use the application, navigate to the root of your project in the terminal and run the command:
+
+```bash
+node index.js
+```
+
+The application will prompt you for the following information about your project:
+
+- Your GitHub username
+- Your email address
+- The name of your project
+- A description of your project
+- The command used to install dependencies
+- The type of license you wish to use
+- The command that can be used to run tests for the project
+- What information is most important about the project
+- How can others contribute to the project
+
+The README file will be generated based on your responses and saved in the current directory.
+
+## Running Tests
+
+Enter the following command in the terminal to run the test:
+
+```bash
+npm test
+```
+
+## Contributing
+
+If you would like to contribute to this project, please first discuss the change you wish to make via issue or email with the owners of this repository before making a change.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Contact
+
+Reggie Mosley @ https://github.com/RMosley912
+
+## Acknowledgments
+
+- Thanks to the [Inquirer](https://www.npmjs.com/package/inquirer) team for providing the package used in this project.
+
+## Disclaimer
+
+Please note that this README was generated using this application.
+
+Enjoy using the README Generator!
+
+## Project status
+
+Development of README Generator is in progress. More features will be updated soon.
+
+## Screenshot of Application
+
+![image](https://github.com/RMosley912/README_Generator/assets/122495055/b74b5a1a-e269-452b-8681-05cf6b2f7a8b)
+
+
 
 ## User Story
 AS A developer
